@@ -1,0 +1,63 @@
+.courses{
+    width:100%;
+    height:70vh;
+    background-color:whitesmoke;
+    display:flex;
+    justify-content:space-evenly;
+    
+}
+.folder1{
+display: block;
+width:30%;
+height:100%;
+background-color:white;
+}
+.image1{
+width:100%;
+overflow: hidden;
+}
+.i12{
+width:100%;
+}
+.content{
+    width:100%;
+    height:40%;
+    padding: 20px;
+    box-sizing: border-box;
+}
+.icon31{
+    display: flex;
+    justify-content: space-between;
+align-items:center;
+}
+.icon1{
+    width:60px;
+    height:60px;
+    border-radius:50%;
+    display:block;
+}
+.b1{
+    padding: 10px 20px;
+    font-family: 'Fredoka One', sans-serif;
+    font-size: 18px;
+    color: #ffffff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    background-color: #ff007f;
+    
+}
+.ta1{
+    display:flex;
+    flex-grow: 1;
+}
+.m1{
+    margin-left:20px;
+}
+.new{
+    display:block;
+    justify-content: center;
+    margin-top:200px;
+    text-align: center;
+
+}
